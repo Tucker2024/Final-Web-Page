@@ -1,0 +1,84 @@
+body{
+  background-color: #FFCDB2;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  color: #000;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: white;
+  }
+  
+  nav li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  nav li a:hover {
+    background-color: #6D6875;
+    color: white;
+  }
+
+  #welcome{
+    background-color: white;
+    text-align: center;
+    outline: gray;
+    margin: 10px 200px 200px 10x;
+  }
+
+  #welcome h1{
+    font-size: 75px;
+  }
+
+  .courts{
+    background-color: white;
+    width: 300px;
+    height: 350px;
+    padding-top: 5px;
+    margin: auto;
+  }
+
+  .nearby {
+    display:flex;
+  }
+  
+  .nearby li{
+    text-align: left;
+  }
+  .nearby h3{
+    text-align: center;
+    color: #4281A4;
+  }
+
+.theCourt img{
+    width: 175px;
+    height: 175px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+hr{
+  color: #4281A4;
+  width: 1000px;
+}
+
+.center{
+  text-align: center;
+  margin-top: 70px;
+}
+
+footer{
+  margin-top: 50px;
+}
+.tips{
+  position: relative;
+}
