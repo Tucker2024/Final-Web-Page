@@ -26,16 +26,22 @@ nav ul {
     color: white;
   }
 
-  #welcome{
+   #welcome{
     background-color: white;
     text-align: center;
-    outline: gray;
-    margin: 10px 10px 10px 10px;
+    margin: 10px 200px 200px 10x;
     padding-bottom: 3px;
+    position: sticky;
+    top: 0;
   }
 
   #welcome h1{
     font-size: 75px;
+    margin-bottom: 15px;
+  }
+  #welcome h2{
+    margin-top: 5px;
+    margin-bottom: 5px;
   }
 
   .courts{
