@@ -30,7 +30,8 @@ nav ul {
     background-color: white;
     text-align: center;
     outline: gray;
-    margin: 10px 200px 200px 10x;
+    margin: 10px 200px 200px 10px;
+    padding-bottom: 3px;
   }
 
   #welcome h1{
