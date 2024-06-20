@@ -81,6 +81,7 @@ hr{
 .center{
   text-align: center;
   margin-top: 70px;
+  z-index: -1;
 }
 
 footer{
@@ -88,4 +89,5 @@ footer{
 }
 .tips{
   position: relative;
+  z-index: -1;
 }
